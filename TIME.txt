@@ -1,0 +1,86 @@
+Пошук інтегралу: !!! E= 0.00001 !!! точність 4 знаки після коми !!! оптимально  
+
+console+
+
+	1)-1 1
+	Трапецій...
+	E= 0.0001
+	10000
+	x^3 * sin(x+10)
+	3.708 sek
+
+	2)-1 Pi
+	Трапецій...
+	E= 0.000001
+	10000
+	x^5* cos(x+10) * sin(x+10)
+	31.240 sek
+		
+	2)-1 Pi
+	Трапецій...
+	E= 0.0001
+	10000
+	x^5* cos(x+10) * sin(x+10)
+	3.732 sek
+
+	2)-1 Pi
+	Трапецій...
+	E= 0.00001
+	10000
+	x^5* cos(x+10) * sin(x+10)
+	9.058 sek
+
+Mutation:
+	
+	10000
+	arr[10]
+	console+
+	6.445
+	
+	10000
+	arr[10]
+	console-
+	0.001
+
+Crossover:
+
+	10000
+	arr[10] arr[10]
+	console-
+	0.001
+
+FindWork:
+
+	FIEFK FIEFK = new FIEFK(-1, 1, (x, y) => Math.Pow(x, 2)*y, (x) => 2*Math.Pow(x,2)/3, 11);
+	FIEFKSolution FIEFKSolution = new FIEFKSolution(FIEFK, new MethodOfTrapezes(),10);
+	double[] a = { 0,1,0,0,0,0,0,0,0,0};  // 0*y^0  +  1*y^1
+	double r=FIEFKSolution.GetR_n(a);
+	Console.WriteLine(r); //5,594889322644431E-06    real r=0
+
+	//                       1 
+        // |                     /                        | 
+        // | (2/3)*(x^2) - a_i * | ( l_i(y) * (x^2)*y )dy |
+        // |                     /                        |
+        //                      -1
+
+// GetR_n
+
+ 	FIEFK FIEFK = new FIEFK(-1, Math.PI, (x, y) => (Math.Pow(x, 5) * Math.Sin(Math.Pow(y, -3) + 1)), (x) => Math.Pow(x + 10, 3) / 4, 3);
+        FIEFKSolution FIEFKSolution = new FIEFKSolution(FIEFK, new MethodOfTrapezes(), 3);
+        double[] a = { 0, 1, 0 };
+        for(int i=0;i< 10000 ;i++)
+        {
+		double r = FIEFKSolution.GetR_n(a);
+		Console.WriteLine(r);
+        }
+	//14.096	(3 , 3 , 10000)
+
+	FIEFK FIEFK = new FIEFK(-1, Math.PI, (x, y) => (Math.Pow(x, 5) * Math.Sin(Math.Pow(y, -3) + 1)), (x) => Math.Pow(x + 10, 3) / 4, 11);
+	FIEFKSolution FIEFKSolution = new FIEFKSolution(FIEFK, new MethodOfTrapezes(), 10);
+	double[] a = { 0, 1, 0 , 1, 0, 0, 1, 0, 1, 1};
+ 	for(int i=0;i<10000;i++)
+	{
+		double r = FIEFKSolution.GetR_n(a);
+                Console.WriteLine(r);
+	}
+	//45.943	(10 , 11 , 10000)

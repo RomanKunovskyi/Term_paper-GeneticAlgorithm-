@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rx6NhinnPLrsGWgezAqrskT2no43nO48V050X9twoRZkg5PWGI5+sToLe2XejgqUH8qHZLZ17Ga98CVVOEEn1A==",
+  "success": true,
+  "projectFilePath": "G:\\LNU\\3course1sem\\Term_Paper\\Term_paper\\Term_paper\\Term_paper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RomanKunovskyi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\RomanKunovskyi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomanKunovskyi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\RomanKunovskyi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

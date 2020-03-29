@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="FredholmIntegralEquationOfTheFirstKind">
+      <HintPath>..\FredholmIntegralEquationOfTheFirstKind\bin\Debug\netcoreapp3.0\FredholmIntegralEquationOfTheFirstKind.dll</HintPath>
+    </Reference>
+    <Reference Include="IntegralSolution">
+      <HintPath>..\FredholmIntegralEquationOfTheFirstKind\bin\Debug\netcoreapp3.0\IntegralSolution.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

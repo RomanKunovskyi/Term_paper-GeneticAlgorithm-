@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FIEFKSolution.cs~RF189b5d44.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="IntegralSolution">
+      <HintPath>..\IntegralSolution\bin\Debug\netcoreapp3.0\IntegralSolution.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

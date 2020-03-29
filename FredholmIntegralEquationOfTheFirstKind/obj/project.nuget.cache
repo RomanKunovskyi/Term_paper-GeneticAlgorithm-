@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RQNK+TSnJo5GOish+0Flrdo1MnZh6CFO11J6Szg5cgW1gnB2J4d3Zxt6Lx7oupugg9Nqr1++wklq6ZuRqQiFJA==",
+  "success": true,
+  "projectFilePath": "G:\\LNU\\3course1sem\\Term_Paper\\Term_paper\\FredholmIntegralEquationOfTheFirstKind\\FredholmIntegralEquationOfTheFirstKind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RomanKunovskyi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\RomanKunovskyi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomanKunovskyi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

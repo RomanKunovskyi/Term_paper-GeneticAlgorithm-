@@ -1,0 +1,17 @@
+G:\LNU\3course\Term_Paper\Term_paper\IntegralSolution\bin\Debug\netcoreapp3.0\IntegralSolution.deps.json
+G:\LNU\3course\Term_Paper\Term_paper\IntegralSolution\bin\Debug\netcoreapp3.0\IntegralSolution.dll
+G:\LNU\3course\Term_Paper\Term_paper\IntegralSolution\bin\Debug\netcoreapp3.0\IntegralSolution.pdb
+G:\LNU\3course\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.csprojAssemblyReference.cache
+G:\LNU\3course\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.AssemblyInfoInputs.cache
+G:\LNU\3course\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.AssemblyInfo.cs
+G:\LNU\3course\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.dll
+G:\LNU\3course\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.pdb
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\bin\Debug\netcoreapp3.0\IntegralSolution.deps.json
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\bin\Debug\netcoreapp3.0\IntegralSolution.dll
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\bin\Debug\netcoreapp3.0\IntegralSolution.pdb
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.csprojAssemblyReference.cache
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.AssemblyInfoInputs.cache
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.AssemblyInfo.cs
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.dll
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.pdb
+G:\LNU\3course1sem\Term_Paper\Term_paper\IntegralSolution\obj\Debug\netcoreapp3.0\IntegralSolution.csproj.CoreCompileInputs.cache

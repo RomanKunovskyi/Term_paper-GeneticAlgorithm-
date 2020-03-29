@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "FredholmIntegralEquationOfTheFirstKind/1.0.0": {
+        "dependencies": {
+          "IntegralSolution": "1.0.0.0"
+        },
+        "runtime": {
+          "FredholmIntegralEquationOfTheFirstKind.dll": {}
+        }
+      },
+      "IntegralSolution/1.0.0.0": {
+        "runtime": {
+          "IntegralSolution.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FredholmIntegralEquationOfTheFirstKind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntegralSolution/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
